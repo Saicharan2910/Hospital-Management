@@ -13,6 +13,7 @@ A secure and extensible Spring Boot-based backend for managing healthcare staff,
 💾 In-Memory H2 Database for development/testing
 📁 Pre-loads default Admin staff on application startup
 🔄 Seamless DTO-to-Entity mapping for API cleanups
+
 🛠️ Tech Stack
 Backend: Java 17+, Spring Boot
 Security: Spring Security, JWT
